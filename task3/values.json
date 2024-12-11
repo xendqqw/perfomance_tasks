@@ -1,0 +1,7 @@
+{
+    "values": [
+        { "id": 2, "value": "passed" },
+        { "id": 41, "value": "failed" },
+        { "id": 73, "value": "skipped" }
+    ]
+}
